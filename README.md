@@ -1,6 +1,6 @@
-# Powell's eBook Store — Customer Analytics & Subscription Prediction
+# eBook Store — Customer Analytics & Subscription Prediction
 
-End-to-end customer analytics project for Powell's eBook Store, covering exploratory data analysis, correlation/association analysis, and predictive modeling for customer subscription likelihood and average monthly spend.
+End-to-end customer analytics project for the eBook Store, covering exploratory data analysis, correlation/association analysis, and predictive modeling for customer subscription likelihood and average monthly spend.
 
 🔗 **Interactive Tableau Dashboard:** [Demographics Dashboard](https://public.tableau.com/app/profile/udaya.s/viz/eBookStoreCustomerfeatures/DemographicsDashboard1#1)
 
@@ -63,7 +63,7 @@ Customers in Professional, Management, and Skilled Manual occupations showed bot
 │   ├── avg_monthly_spend_predictions.csv     # Predicted average monthly spend per customer
 │   └── subscription_predictions.csv          # Predicted subscription outcome per customer
 ├── presentation/
-│   └── Powell_eBookStore_EDA_Nov2025.pptx    # Stakeholder-facing summary deck
+│   └── eBookStore_EDA_Nov2025.pptx    # Stakeholder-facing summary deck
 └── README.md
 ```
 
